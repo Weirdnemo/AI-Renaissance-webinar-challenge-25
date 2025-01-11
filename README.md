@@ -22,8 +22,6 @@ The dataset provided is named `titanic.csv`. It contains information about passe
   - `Parch`: Number of parents/children aboard.
   - `Ticket`: Ticket number.
   - `Fare`: Passenger fare.
-  - `Cabin`: Cabin number.
-  - `Embarked`: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
   - `Survived`: Target variable (1 = Survived, 0 = Did not survive).
 
 ## Tasks
