@@ -51,7 +51,7 @@ The dataset provided is named `titanic.csv`. It contains information about passe
 
 2. Provide a brief report summarizing your findings and the model's performance.
 
-3. Email your submission to [example@webinar.com](mailto:example@webinar.com) by **[Insert Deadline]**.
+3. Email your submission to [example@webinar.com](mailto:placeholder@gmail.com) by **[14-JAN-2025]**.
 
 ## Resources
 - Refer to the slides and examples covered during the webinar.
